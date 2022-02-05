@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingK_WpfMvvmBase", "CodingK_WpfMvvmBase\CodingK_WpfMvvmBase.csproj", "{AC00353A-CB8E-4C68-A447-9320306B6E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSimpleDemo", "WpfSimpleDemo\WpfSimpleDemo.csproj", "{3CAF0444-B462-4EA2-92C4-4C8B55BB93AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC00353A-CB8E-4C68-A447-9320306B6E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC00353A-CB8E-4C68-A447-9320306B6E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC00353A-CB8E-4C68-A447-9320306B6E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC00353A-CB8E-4C68-A447-9320306B6E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAF0444-B462-4EA2-92C4-4C8B55BB93AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAF0444-B462-4EA2-92C4-4C8B55BB93AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAF0444-B462-4EA2-92C4-4C8B55BB93AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAF0444-B462-4EA2-92C4-4C8B55BB93AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A3DBB0-6E8C-423E-94A4-957EAE4BF63E}
+	EndGlobalSection
+EndGlobal

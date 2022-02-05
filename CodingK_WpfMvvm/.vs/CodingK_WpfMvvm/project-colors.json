@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85849105-3d2c-4c85-8459-eedff128945c": {
+      "ProjectGuid": "85849105-3d2c-4c85-8459-eedff128945c",
+      "DisplayName": "CodingK_WpfMvvm",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "8ea00de0-e33a-4eeb-936d-bf6106a18b83": {
+      "ProjectGuid": "8ea00de0-e33a-4eeb-936d-bf6106a18b83",
+      "DisplayName": "CodingKWpfMvvmBase",
+      "ColorIndex": 1
+    },
+    "a3bfddf9-4e5c-4a6d-b72a-0976fd682341": {
+      "ProjectGuid": "a3bfddf9-4e5c-4a6d-b72a-0976fd682341",
+      "DisplayName": "CodingKWpfMvvmBase",
+      "ColorIndex": 2
+    },
+    "809317d8-f01f-49a5-9f47-adbeab334ba1": {
+      "ProjectGuid": "809317d8-f01f-49a5-9f47-adbeab334ba1",
+      "DisplayName": "CodingK_WpfMvvmBase",
+      "ColorIndex": 3
+    },
+    "91ecfea7-b4b4-4848-ab3b-cd08b697eeae": {
+      "ProjectGuid": "91ecfea7-b4b4-4848-ab3b-cd08b697eeae",
+      "DisplayName": "Test",
+      "ColorIndex": 4
+    },
+    "ac00353a-cb8e-4c68-a447-9320306b6e09": {
+      "ProjectGuid": "ac00353a-cb8e-4c68-a447-9320306b6e09",
+      "DisplayName": "CodingK_WpfMvvmBase",
+      "ColorIndex": 5
+    },
+    "3caf0444-b462-4ea2-92c4-4c8b55bb93ab": {
+      "ProjectGuid": "3caf0444-b462-4ea2-92c4-4c8b55bb93ab",
+      "DisplayName": "WpfSimpleDemo",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
