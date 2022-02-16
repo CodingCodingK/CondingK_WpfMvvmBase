@@ -1,2 +1,2 @@
 # CondingK_WpfMvvmBase
- Wpf Mvvm simple demo created by prism, reactiveproperty.
+ Wpf Mvvm simple template created by prism, reactiveproperty.
